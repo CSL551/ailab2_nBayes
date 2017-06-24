@@ -37,10 +37,5 @@ def getFeature(comments):
     #X = transformer.fit_transform(X)
     y = np.array(ylist)
 
-try:
-    file = np.load("matrix")
-    X = file["X"]
-    y = file["y"]
-except:
-    getFeature("data")
-    np.savez("matrix", X=X, y=y)
+
+getFeature("data")

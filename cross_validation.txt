@@ -1,0 +1,7 @@
+when threshold is 0.5, the average accuracy is 0.7904.
+when threshold is 0.6, the average accuracy is 0.78634.
+when threshold is 0.7, the average accuracy is 0.7818.
+when threshold is 0.75, the average accuracy is 0.77972.
+when threshold is 0.8, the average accuracy is 0.77808.
+when threshold is 0.85, the average accuracy is 0.77656.
+when threshold is 0.9, the average accuracy is 0.77522.
